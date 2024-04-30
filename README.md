@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning coding and data analytics
 - 💞️ I’m looking to collaborate on geospatial data analytics
 - 📫 How to reach me ...
+- Completed my PhD in Geosciences in 2023
 
 <!---
 KBKhumalo/KBKhumalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
